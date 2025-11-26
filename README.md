@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images3.alphacoders.com/131/thumb-1920-1310203.png" alt="Banner" />
+</p>
+
 # Hi 👋, I'm Ansh Kalwar
 
 <p align="center">
@@ -7,7 +11,7 @@
 </p>
 
 ## About Me
-I’m Ansh — an undergraduate B.Tech (CS) student passionate about IoT, Cybersecurity, Blockchain and Backend development. I love building hardware + software projects that solve real-world problems and learning new technologies along the way.
+I’m Ansh — an undergraduate B.Tech (CS) student passionate about IoT, Cybersecurity, Blockchain and Backend development. I love building hardware + software projects that solve real-world prob[...]
 
 - 🔭 Currently working on: **Electricity generation with Archimedes wind turbine + solar panels**
 - 🌱 Learning: **Backend systems**, **Blockchain development**, and **secure IoT architectures**
