@@ -1,48 +1,70 @@
-<h1 align="center">Hi 👋, I'm Ansh Kalwar</h1>
+# Hi 👋, I'm Ansh Kalwar
 
-<h3 align="center">Undergraduate in BTech , Specialized in CS ( Internet of Things , CyberSecurity and Blockchain)</h3>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aixensosuke&label=Profile%20views&color=0e75b6&style=flat" alt="aixensosuke" /> </p>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aixensosuke" alt="aixensosuke" /></a> </p>
-
-
-
-- 🔭 I’m currently working on **Electricity generation through archimedes wind turbine and solar panels**
-
-
-
-- 🌱 I’m currently learning **Backend , BlockChain**
-
-
-
-- 👯 I’m looking to collaborate on **more projects !!**
-
-
-
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ansh-kalwar-25a432331](www.linkedin.com/in/ansh-kalwar-25a432331)
-
-
-
-- 📫 How to reach me **kalwaransh07@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://linkedin.com/in/ansh kalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh kalwar" height="30" width="40" /></a>
-
+<p align="center">
+  <a href="https://github.com/aixensosuke"><img alt="Profile" src="https://komarev.com/ghpvc/?username=aixensosuke&label=Profile%20views&color=0e75b6&style=flat" /></a>
+  &nbsp;
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=aixensosuke&theme=onedark" /></a>
 </p>
 
+## About Me
+I’m Ansh — an undergraduate B.Tech (CS) student passionate about IoT, Cybersecurity, Blockchain and Backend development. I love building hardware + software projects that solve real-world problems and learning new technologies along the way.
 
+- 🔭 Currently working on: **Electricity generation with Archimedes wind turbine + solar panels**
+- 🌱 Learning: **Backend systems**, **Blockchain development**, and **secure IoT architectures**
+- 👯 Open to: Collaboration on hardware-software projects, IoT systems, and blockchain experiments
+- 📫 Reach me: [kalwaransh07@gmail.com](mailto:kalwaransh07@gmail.com)
+- 🔗 LinkedIn: https://www.linkedin.com/in/ansh-kalwar-25a432331
+- ⚡ Fun: Always prototyping — sensors, microcontrollers, and power systems are my playground
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Technologies & Tools
+Here are the languages, frameworks, and tools I use frequently:
 
+- Hardware & Embedded: Arduino, ESP32, sensors, Raspberry Pi
+- Backend & Web: Node.js, Express, REST APIs
+- Blockchain & Security: Solidity basics, smart contracts, cybersecurity fundamentals
+- Dev & Infra: Git, Docker, Linux, CI/CD basics
+- Languages: C/C++, Python, JavaScript
+
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img alt="Arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="36" height="36" /></a>
+  <img alt="ESP32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="36" height="36" />
+  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" />
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" />
+  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" />
+  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" />
+</p>
+
+---
+
+## Selected Projects
+Explore my repositories to see full details and code. (You can also find more on my GitHub profile.)
+
+- IoT Energy Monitoring — sensor network for solar + wind power (hardware + backend)
+- Archimedes Wind Turbine Prototype — mechanical + electronics prototype, performance logs
+- Smart Metering & Data Logger — embedded logger with remote upload to server
+- Blockchain experiments — small smart-contract demos and writeups
+
+Visit my repos: https://github.com/aixensosuke
+
+---
+
+## GitHub Stats
+<p align="left">
+  <img alt="Ansh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aixensosuke&show_icons=true&theme=github_dark" />
+  &nbsp;
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixensosuke&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## How to collaborate
+If you'd like to work together:
+- Email me at kalwaransh07@gmail.com
+- Message on LinkedIn: https://www.linkedin.com/in/ansh-kalwar-25a432331
+- Open an issue or PR on any of my repos — I'm happy to review and contribute
+
+---
+
+Thanks for stopping by — let's build something meaningful!
